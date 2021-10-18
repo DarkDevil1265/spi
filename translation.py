@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hi!
 please read the TnC before proceeding: https://t.me/SpEcHlDe/889
 Thank you for using me 😬
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+Enter your Telegram Phone Number, to get the APP-ID from @malluinstaufollowers
 
 /start at any stage to re-enter your details"""
     AFTER_RECVD_CODE_TEXT = """I see!
@@ -10,7 +10,7 @@ now please send the Telegram code that you received from Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and clicking on the Pink Button
+by opening https://t.me/malluinstaufollowers and clicking on the Pink Button
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
